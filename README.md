@@ -9,4 +9,4 @@
 # 运行方法	：
 		 运行main函数
 
-![image](https://github.com/biao169/quick_crop_image_tool/cut_images_tool/ui_display/main_dispay.jpg)
+![image]([https://github.com/biao169/quick_crop_image_tool/cut_images_tool/ui_display/main_dispay.jpg](https://github.com/biao169/quick_crop_image_tool/blob/main/cut_images_tool/ui_display/main_dispay.jpg))
