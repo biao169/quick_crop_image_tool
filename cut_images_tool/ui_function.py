@@ -177,6 +177,7 @@ class System:
             self.win.pushButton_start_system.setText('运行中')
             self.system_running.setvalue(True)
             self.system_to_running.setvalue(True)
+            self.btfn_read_above_image()
         else:
             # print(' system is running.')
             self.win.pushButton_start_system.setText('读取')

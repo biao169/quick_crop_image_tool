@@ -21,7 +21,7 @@ if __name__ == '__main__':
     # win = ui_window.Ui_MainWindow().setupUi(qmain)
     d = ui_function.System(qmain)
     qmain.show()
-
+    qmain.setWindowTitle('Quick crop picture tool')
 
     sys.exit(app.exec_())
 
